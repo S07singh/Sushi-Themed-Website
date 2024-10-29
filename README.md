@@ -1,10 +1,21 @@
-🤖 Introduction
+# Project Title
+Sushi-Themed-Website
+
+## Introduction
+
 Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations.
-⚙️ Tech Stack
+
+## Tech Stack
+
 HTML 5
+
 CSS 3
+
 Vite
-🔋 Features
+
+
+## 🔋 Features
+
 👉 CSS Variables: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
 
 👉 Importing CSS Files: Import CSS files into others, promoting modularity and organization in styling.
@@ -21,40 +32,53 @@ Vite
 
 👉 Responsive Design: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
 
-all these while creating the sushi website with,
 
-Navigation Bar
+## Navigation Bar
+
 Creative Hero Section
+
 About Us Section
+
 Popular Food, Trending Sushi, and Drinks Sections
+
 Newsletter Signup and Footer
-🤸 Quick Start
+
+
+## 🤸 Quick Start
+
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+### Prerequisites
 
 Make sure you have the following installed on your machine:
 
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
+- Git
+- Node.js
+- npm (Node Package Manager)
 
+### Cloning the Repository
+
+```bash
 git clone https://github.com/adrianhajdin/project_html_css_website.git
 cd project_html_css_website
-Installation
+``` 
+
+### Installation
 
 Install the project dependencies using npm:
-
+```bash
 npm install
-Running the Project
-
+```
+### Running the Project
+```bash
 npm run dev
+```
+
 Open http://localhost:5173 in your browser to view the project.
 
-🕸️ Snippets
-index.html
-missed-navbar-code.css
-script.js
-style.css
-trending.css
+## Screenshots
+![Screenshot 2024-10-29 143221](https://github.com/user-attachments/assets/8750ac7e-4a0a-491f-a8d6-7b35cc7b95b2)
+
+
+![Screenshot 2024-10-29 143243](https://github.com/user-attachments/assets/72c6afbe-49ae-4a0c-9104-3d508a956851)
+
